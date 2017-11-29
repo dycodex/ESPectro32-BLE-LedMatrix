@@ -48,7 +48,7 @@ class MyCallbacks : public BLECharacteristicCallbacks
 
             Serial.println();
             Serial.println("*********");
-
+            
             ledMatrixTextAnim.scrollText(rxValue.c_str());
         }
     }
@@ -62,7 +62,7 @@ void setup()
     //ESPectro32.fadeLED(1000, 5);
 
     // Create the BLE Device
-    BLEDevice::init("UART Service");
+    BLEDevice::init("ESPectro32 LED Matrix");
 
     // Create the BLE Server
     BLEServer *pServer = BLEDevice::createServer();
