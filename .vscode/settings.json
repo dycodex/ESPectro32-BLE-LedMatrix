@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/andri/.platformio/penv/bin:/Users/andri/.jenv/shims:/Users/andri/.jenv/bin:/Volumes/esp-open-sdk/esp-open-sdk/xtensa-lx106-elf/bin:/usr/local/opt/coreutils/libexec/gnubin:/Applications/Arduino.app/Contents/MacOS:/usr/local/sbin:/Users/andri/Projects/gradle/gradle-2.2.1/bin:/Users/andri/.nvm/versions/node/v8.7.0/bin:/usr/local/narwhal/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/andri/.jenv/shims:/Users/andri/.jenv/bin:/Volumes/esp-open-sdk/esp-open-sdk/xtensa-lx106-elf/bin:/usr/local/opt/coreutils/libexec/gnubin:/Applications/Arduino.app/Contents/MacOS:/usr/local/sbin:/Users/andri/Projects/gradle/gradle-2.2.1/bin:/usr/local/narwhal/bin:/Developer/usr/bin:/Users/andri/Projects/esp32/esp-idf/xtensa-esp32-elf/bin:/Users/andri/.mos/bin:/Volumes/Macintosh_Data/Android/sdk/platform-tools:/Volumes/Macintosh_Data/Android/sdk/tools:/Developer/usr/bin:/Users/andri/Projects/esp32/esp-idf/xtensa-esp32-elf/bin:/Users/andri/.mos/bin:/Volumes/Macintosh_Data/Android/sdk/platform-tools:/Volumes/Macintosh_Data/Android/sdk/tools"
+    },
+    "files.associations": {
+        "functional": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp"
+    }
+}
